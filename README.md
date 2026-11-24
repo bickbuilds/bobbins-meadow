@@ -15,4 +15,4 @@ The game is one self-contained `index.html`. It works best in Safari on an iPad,
 
 ## Voices
 
-All spoken lines are computer-generated, not recordings of a person. Most use the Piper LJ Speech voice; some use OpenAI text-to-speech voices. See [NOTICE](NOTICE) for credits and licenses.
+All spoken lines are computer-generated, not recordings of a person: the narration is OpenAI's Marin text-to-speech voice, bundled in the page. In **Game settings** you can switch to **iPad voice**, which uses your device's own reader instead. See [NOTICE](NOTICE) for credits and licenses.

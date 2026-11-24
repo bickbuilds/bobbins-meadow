@@ -9,14 +9,9 @@ Computer-generated voices
 Every spoken line in this game is AI-generated. None of them is a human
 recording.
 
-- Most prompts were generated locally with Piper text-to-speech using
-  the en_US "ljspeech" medium voice
-  (https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/ljspeech/medium).
-  That voice was trained on the LJ Speech dataset
-  (https://keithito.com/LJ-Speech-Dataset/), which is in the public domain.
-- The "Marin" meadow narration and the voice preview samples were
-  generated with OpenAI text-to-speech. Under OpenAI's usage policies:
-  these voices are AI-generated and are not human voices.
+All bundled narration was generated with OpenAI text-to-speech
+(model gpt-4o-mini-tts, voice "Marin"). Under OpenAI's usage policies:
+this voice is AI-generated and is not a human voice.
 
 -----------------------------------------------------------------------
 Fonts: Bricolage Grotesque and Silkscreen (SIL Open Font License 1.1)
